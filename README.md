@@ -1,2 +1,2 @@
-# cme216-project
-Final project code for Machine Learning in Computational Engineering
+# Airfoil noise prediction using MLP
+This repository contains the code to generate the results for the project report, along with the training dataset.
